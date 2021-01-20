@@ -1,0 +1,15 @@
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\dodgeChecker.exe.config
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\dodgeChecker.exe
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\dodgeChecker.pdb
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.csprojAssemblyReference.cache
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.Form1.resources
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.Properties.Resources.resources
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.csproj.GenerateResource.cache
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.csproj.CoreCompileInputs.cache
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.exe
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.pdb
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\Camille.dll
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\LCUSharp.dll
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asd\source\repos\dodgeChecker\dodgeChecker\obj\Debug\dodgeChecker.csproj.CopyComplete
